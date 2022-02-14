@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955799768071",
+    "firebase_url": "https://aplicativo-teste-30acd-default-rtdb.firebaseio.com",
+    "project_id": "aplicativo-teste-30acd",
+    "storage_bucket": "aplicativo-teste-30acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955799768071:android:ab34d3a2b8ad6111da2ea2",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.testandofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955799768071-99ok7s32f0r3aobgatbe1b8sn5sqd3e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.testandofirebase",
+            "certificate_hash": "01311d3e0bc60859e536f63b8af67eb225220119"
+          }
+        },
+        {
+          "client_id": "955799768071-ue55to0u1qi1o5be1g5j4fvebnc2irgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6E2_DZS9kSNRYoTmYJ42W9TMaatTdHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955799768071-ue55to0u1qi1o5be1g5j4fvebnc2irgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
